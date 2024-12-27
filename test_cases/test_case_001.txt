@@ -1,0 +1,6 @@
+|Test Case Id| Test Description |Pre-Conditions| Expected Results |Actual Results |Status|
+|COMP01|Create a company with all required fields filled|User logged in|Company should be created successfully|||
+|COMP02|Create a company with missing Company Name|User logged in|Error message for missing Company Name|||
+|COMP03|Create a company with invalid email format|User logged in|Error message for invalid email format|||
+|COMP04|Create a company with missing Currency|User logged in|Error message for missing Currency|||
+|COMP05|Create a company with invalid Phone Number|User logged in|Error message for invalid Phone Number|||
